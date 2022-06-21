@@ -1,0 +1,32 @@
+.sub-but {
+  background-color: rgb(200, 0, 0);
+  color: white;
+  border: none;
+  height: 40px;
+  width: 105px;
+  border-radius: 2px;
+  cursor: pointer;
+}
+.join-but {
+  background-color: white;
+  border-color: rgb(41, 118, 211);
+  border-width: 1px;
+  height: 40px;
+  width: 105px;
+  color: rgb(41, 118, 211);
+  cursor: pointer;
+  border-radius: 2px;
+  margin: 8px;
+}
+.tweet-but {
+  background-color: rgb(2, 137, 255);
+  border: none;
+  height: 40px;
+  width: 74px;
+  color: white;
+  border-radius: 15px;
+  font-weight: bold;
+  font-size: 15;
+  cursor: pointer;
+  margin: 8px;
+}
